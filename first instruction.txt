@@ -1,3 +1,7 @@
 first instruction 
+<<<<<<< HEAD
 iam nour
 hi wassim
+=======
+iam sami
+>>>>>>> eb2d7204f314238024aa21eb0e6129d0408ea65f
